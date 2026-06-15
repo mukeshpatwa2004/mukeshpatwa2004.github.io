@@ -1,0 +1,13 @@
+{
+  "name": "SankeyWidget",
+  "id": "com.mukesh.sankey",
+  "version": "1.0.0",
+  "description": "Sankey Chart Widget",
+  "webcomponents": [
+    {
+      "kind": "main",
+      "tag": "com-mukesh-sankey",
+      "url": "index.html"
+    }
+  ]
+}
